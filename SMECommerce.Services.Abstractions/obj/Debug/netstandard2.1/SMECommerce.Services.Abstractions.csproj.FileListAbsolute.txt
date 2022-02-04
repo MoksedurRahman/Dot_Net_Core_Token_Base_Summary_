@@ -1,0 +1,26 @@
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.deps.json
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.AssemblyReference.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.AssemblyInfoInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.AssemblyInfo.cs
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CoreCompileInputs.cache
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CopyComplete
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
+E:\aspnet-batch8\ApplicationDevelopment\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.deps.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\bin\Debug\netstandard2.1\SMECommerce.Models.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.AssemblyReference.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.AssemblyInfoInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.AssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CoreCompileInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.csproj.CopyComplete
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\ASP.NET Core Batch 08\SMECommerce\SMECommerce.Services.Abstractions\obj\Debug\netstandard2.1\SMECommerce.Services.Abstractions.pdb
